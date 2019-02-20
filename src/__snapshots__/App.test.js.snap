@@ -1,0 +1,64 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<App /> matches the snapshot 1`] = `
+<div
+  className="App"
+>
+  <header
+    className="App-header"
+  >
+    <img
+      alt="logo"
+      className="App-logo"
+      src="logo.svg"
+    />
+    <p>
+      Edit 
+      <code>
+        src/App.js
+      </code>
+       and save to reload.
+    </p>
+    <ul
+      className="list"
+    >
+      <li>
+        Link1
+      </li>
+      <li>
+        Link2
+      </li>
+      <li>
+        Link3
+      </li>
+    </ul>
+    <a
+      className="App-link"
+      href="https://reactjs.org"
+      rel="noopener noreferrer"
+      target="_blank"
+    >
+      Learn React
+    </a>
+    <p>
+      hello world
+    </p>
+    <p
+      className="button-state"
+    >
+      No!
+    </p>
+    <button
+      onClick={[Function]}
+    >
+      Click
+    </button>
+    <h3
+      className="blue"
+    >
+      welcome Everyone!
+    </h3>
+    <test />
+  </header>
+</div>
+`;
