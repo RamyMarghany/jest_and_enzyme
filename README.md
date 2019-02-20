@@ -2,26 +2,26 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### `Project Dependencies`
 
---create-react-app to start a very simple application
+- create-react-app to start a very simple application
 
 
 ### `Usage`
 
--- git clone git@github.com:Ramy-Medhat/jest_and_enzyme.git
--- cd jest_and_enzyme
--- run npm install to install the dependencies
--- run npm start to start the app
--- run 'npm install --save-dev enzyme' to import enzyme library
--- create 'setupTests.js' on .src route
--- setup the configuration of 'setupTests.js'
+- git clone git@github.com:Ramy-Medhat/jest_and_enzyme.git
+- cd jest_and_enzyme
+- run npm install to install the dependencies
+- run npm start to start the app
+- run 'npm install --save-dev enzyme' to import enzyme library
+- create 'setupTests.js' on .src route
+- setup the configuration of 'setupTests.js'
 
 
-### `Project Structure`:
+### `Project Structure`
 
--- config - Includes the webpack
--- node_modules - includes all dependencies
--- public and scripts
--- src - includes all components, views and styles
+- config - Includes the webpack
+- node_modules - includes all dependencies
+- public and scripts
+- src - includes all components, views and styles
 
 
 ### `npm start`
