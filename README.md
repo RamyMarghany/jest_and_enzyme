@@ -1,11 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-###Project Dependencies:
+### `Project Dependencies`
 
 --create-react-app to start a very simple application
 
 
-###usage
+### `Usage`
 
 -- git clone git@github.com:Ramy-Medhat/jest_and_enzyme.git
 -- cd jest_and_enzyme
@@ -16,7 +16,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 -- setup the configuration of 'setupTests.js'
 
 
-#Project Structure:
+### `Project Structure`:
 
 -- config - Includes the webpack
 -- node_modules - includes all dependencies
