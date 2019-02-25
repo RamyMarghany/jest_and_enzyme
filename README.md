@@ -5,15 +5,20 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - create-react-app to start a very simple application
 
 
+### `How I Started`
+
+- run  ```npx create-react-app``` 
+- run  ```npm install --save-dev enzyme```  to import enzyme library
+- create 'setupTests.js' on src directory
+- setup the configuration of 'setupTests.js'
+
 ### `Usage`
 
-- git clone git@github.com:Ramy-Medhat/jest_and_enzyme.git
+- git clone https://github.com/Ramy-Medhat/jest_and_enzyme
 - cd jest_and_enzyme
 - run npm install to install the dependencies
 - run npm start to start the app
-- run 'npm install --save-dev enzyme' to import enzyme library
-- create 'setupTests.js' on .src route
-- setup the configuration of 'setupTests.js'
+
 
 
 ### `Project Structure`
